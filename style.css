@@ -1,0 +1,22 @@
+.heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .copy_right_footer {
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    position: fixed;
+    color: white;
+    background-color: black;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+  }
+  body {
+      background-color: aqua;
+  }
+  h4 {
+      text-align: center;
+  }
